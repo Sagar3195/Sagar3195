@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Hi there, It's Sagar here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there, It's Sagar here**✨✨
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m Aspiring Data Science and Mathematician
 - 🌱 I’m currently learning new technology in data science.
